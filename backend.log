@@ -1,0 +1,97 @@
+2026-02-07 18:31:04,299 [INFO] AI Chat System Initialized (Groq Powered).
+2026-02-07 18:31:04,314 [INFO] Grade Helper AI Initialized.
+INFO:     Will watch for changes in these directories: ['/Users/surjeet/Documents/devas change/Classbridge/class/backend_py']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [22839] using WatchFiles
+Loaded configuration from: /Users/surjeet/Documents/devas change/Classbridge/class/backend_py/.env
+Active DATABASE_URL: postgresql://postgres:admin@localhost/ClassBridge_db
+Database initialized successfully.
+2026-02-07 18:31:06,149 [INFO] AI Chat System Initialized (Groq Powered).
+2026-02-07 18:31:06,163 [INFO] Grade Helper AI Initialized.
+2026-02-07 18:31:06,307 [INFO] 38 changes detected
+2026-02-07 18:31:06,434 [INFO] AI Chat System Initialized (Groq Powered).
+2026-02-07 18:31:06,449 [INFO] Grade Helper AI Initialized.
+INFO:     Started server process [22932]
+INFO:     Waiting for application startup.
+2026-02-07 18:31:06,532 [INFO] Initializing Database...
+2026-02-07 18:31:06,668 [INFO] 38 changes detected
+2026-02-07 18:31:06,686 [INFO] Database Initialized.
+2026-02-07 18:31:06,686 [INFO] Training Recommendation Model (Lazy loaded on demand)...
+2026-02-07 18:31:06,686 [INFO] Model training deferred.
+INFO:     Application startup complete.
+2026-02-07 18:57:42,636 [INFO] 2 changes detected
+2026-02-07 19:00:32,016 [INFO] 3 changes detected
+2026-02-07 19:00:53,992 [INFO] 2 changes detected
+2026-02-07 19:01:02,243 [INFO] 102 changes detected
+2026-02-07 19:01:02,603 [INFO] 7 changes detected
+2026-02-07 19:01:07,856 [INFO] 53 changes detected
+2026-02-07 19:02:41,370 [INFO] 3 changes detected
+2026-02-07 19:04:30,585 [INFO] 3 changes detected
+2026-02-07 19:04:42,177 [INFO] 6 changes detected
+2026-02-07 21:13:22,101 [INFO] 2 changes detected
+2026-02-07 21:14:21,201 [INFO] 1 change detected
+WARNING:  WatchFiles detected changes in 'backend.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+2026-02-07 21:14:21,668 [INFO] Shutting down...
+INFO:     Application shutdown complete.
+INFO:     Finished server process [22932]
+Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000002075bec40 (most recent call first):
+  <no Python frame>
+2026-02-07 21:14:54,965 [INFO] 1 change detected
+WARNING:  WatchFiles detected changes in 'backend.py'. Reloading...
+Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000002075bec40 (most recent call first):
+  <no Python frame>
+2026-02-07 21:24:28,069 [INFO] 2 changes detected
+2026-02-07 21:24:41,508 [INFO] 1 change detected
+2026-02-07 21:25:25,943 [INFO] 1 change detected
+2026-02-07 21:25:39,631 [INFO] 1 change detected
+2026-02-07 21:25:57,116 [INFO] 1 change detected
+2026-02-07 21:26:08,621 [INFO] 23 changes detected
+2026-02-07 21:26:17,452 [INFO] 2 changes detected
+2026-02-07 21:26:26,804 [INFO] 25 changes detected
+2026-02-07 21:26:46,468 [INFO] 1 change detected
+2026-02-07 21:26:47,609 [INFO] 69 changes detected
+WARNING:  WatchFiles detected changes in 'backend.py'. Reloading...
+Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000002075bec40 (most recent call first):
+  <no Python frame>
+2026-02-07 21:26:53,998 [INFO] 2 changes detected
+2026-02-07 21:27:04,895 [INFO] 5 changes detected
+WARNING:  WatchFiles detected changes in 'backend.py'. Reloading...
+Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000002075bec40 (most recent call first):
+  <no Python frame>
+2026-02-07 21:27:10,533 [INFO] 4 changes detected
+2026-02-07 21:27:18,500 [INFO] 26 changes detected
+2026-02-07 21:27:48,388 [INFO] 4 changes detected
+2026-02-07 22:08:30,349 [INFO] 38 changes detected
+2026-02-07 22:14:15,887 [INFO] 3 changes detected
+2026-02-07 22:26:50,554 [INFO] 2 changes detected
+2026-02-07 22:36:26,045 [INFO] 2 changes detected
+2026-02-07 22:40:31,679 [INFO] 2 changes detected
+2026-02-07 22:44:39,207 [INFO] 2 changes detected
+2026-02-07 22:53:03,718 [INFO] 6 changes detected
+WARNING:  WatchFiles detected changes in 'backend.py'. Reloading...
+Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000002075bec40 (most recent call first):
+  <no Python frame>
+2026-02-07 22:54:56,833 [INFO] 2 changes detected
+INFO:     Stopping reloader process [22839]
